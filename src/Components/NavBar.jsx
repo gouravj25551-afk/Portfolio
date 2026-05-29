@@ -1,5 +1,5 @@
 import { User, Code2, FolderGit2, Mail } from "lucide-react";
-function Navbar() {
+export default function Navbar() {
   return (
     <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50">
 
